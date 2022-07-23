@@ -43,7 +43,7 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Screenshot
 
-![GeneratorScreen](https://github.com/kwc2894/password-generator/blob/main/Screen%20Shot%202022-07-23%20at%202.00.02%20AM.png)
+![GeneratorScreen](https://github.com/kwc2894/kwc-Password-generator/blob/main/Screen%20Shot%202022-07-23%20at%202.00.02%20AM.png)
 
 ## Deployed page
 
