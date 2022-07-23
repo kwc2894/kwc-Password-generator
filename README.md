@@ -47,4 +47,4 @@ THEN the password is either displayed in an alert or written to the page
 
 ## Deployed page
 
-Page published at: https://kwc2894.github.io/password-generator/
+Page published at: https://kwc2894.github.io/kwc-Password-generator/
