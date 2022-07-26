@@ -30,15 +30,6 @@ WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
 ```
 
-## Changes made
-
-- added title describing the company
-- added semantic tags (header, nav, section, article, aside, footer)
-- added alt text for images
-- condenced css and removed repeating code
-- re-organized css classes to better match sections in html
-- fixed missing id to make menu link work correctly
-- commented HTML and CSS for readability and clarity
 
 
 ## Screenshot
